@@ -9,16 +9,11 @@
 <p align="center">
   Hey, Moi c'est Lucas, j'apprends le développement
   <br>
-  <br>
-  <br>
 
 -----
 
   <br>
   <a href="https://lucasldev.ga">📺 Mon Site 📺</a>
-  <br>
-  <a href="https://discord.gg/plague/">💬 Mon serveur Discord | discord.gg/plague 💬</a>
-  <br>
   <br>
 </p>
 
