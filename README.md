@@ -5,18 +5,22 @@
 </p>
 
 -----
+### <p align="center">😀&nbsp;Moi</p>
 <br>
 <p align="center">
-  Hey, Moi c'est Lucas, j'apprends le développement
+  Hey, Moi c'est Lucas, j'apprends le développement 😄
+  <br>
   <br>
   <br>
 
 -----
 ### <p align="center">&nbsp;Mes Lien</p>
   <br>
-  <a href="https://lucasldev.ga">📺 Mon Site 📺</a>
+  <p align="center">
+  <a href="https://lucasldev.ga">🌐 Mon Site 🌐</a>
   <br>
   <br>
+  </p>
 </p>
 
 -----
@@ -24,7 +28,7 @@
 <br>
 <p align="center">
   <br>
-  Soon
+  Bientot
 </p>
 
 -----
