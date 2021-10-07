@@ -5,7 +5,6 @@
 </p>
 
 -----
-### <p align="center">&nbsp;Moi</p>
 <br>
 <p align="center">
   Hey, Moi c'est Lucas, j'apprends le développement
