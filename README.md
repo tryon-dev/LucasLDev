@@ -27,7 +27,6 @@
 ### <p align="center">🔨 &nbsp;Mes Projets</p>
 <br>
 <p align="center">
-  <br>
   <a href="https://github.com/lucasldev/FARA">FARA</a>
 </p>
 
