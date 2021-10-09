@@ -1,11 +1,11 @@
 -----
 
 <p align = "center">
-<img src="https://lh3.googleusercontent.com/proxy/vncf6sONCjypJRiMMlPWJAgFUTCk1j8wQ9PznXBWruKQ7-pdpWROviZ51CuugG5blaqFDLe_24NyYF-EV1KDImHyn96--Q2YM6GiXxrsMY4">
+<img src="http://reve-of-manga.r.e.pic.centerblog.net/191a57f2.gif">
 </p>
 
 -----
-### <p align="center">😀&nbsp;Moi</p>
+<p align="center">😀&nbsp;Moi</p>
 <br>
 <p align="center">
   Hey, Moi c'est Lucas, j'apprends le développement 😄
@@ -14,7 +14,7 @@
   <br>
 
 -----
-### <p align="center">&nbsp;Mes Lien</p>
+### <p align="center">&nbsp;Mes Liens</p>
   <br>
   <p align="center">
   <a href="https://lucasldev.ga">🌐 Mon Site 🌐</a>
@@ -28,7 +28,7 @@
 <br>
 <p align="center">
   <br>
-  Bientot
+  <a href="https://github.com/lucasldev/FARA">FARA</a>
 </p>
 
 -----
